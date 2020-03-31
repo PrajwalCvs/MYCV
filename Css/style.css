@@ -112,14 +112,15 @@ span{
   background-color: blue;
 }
 .cloud{
-  position: absolute;
-  left: auto;
-  bottom: 300px;
+  position: relative;
+  left: 50px;
+  bottom: 250px;
 }
 
 .mountain{
 position: relative;
 top: 96px;
+  right:70px;
   width: 590px;
   height: 420px;
   text-align: center;
